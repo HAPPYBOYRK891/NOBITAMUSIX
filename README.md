@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    ─「 𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -28,14 +28,14 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silentsmile29&repo=TamannaMusic&theme=flag-india)
 
 [![GIF](https://github.com/Silentsmile29/TamannaMusic/blob/main/Silentsmile29.gif)](https://github.com/Silentsmile29)
-   [![𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
+   [![𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")](https://github-stats-alpha.vercel.app/api?username=Silentsmile29 "Silent_Smile_29")
 
 
 <p align="center">
   <img src="https://graph.org/file/265edcea4b5fd02c189f0.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐑𝐎𝐁𝐎𝐓](https://t.me/TAMANNA_MUSIC_ROBOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐍𝐎𝐁𝐈𝐓𝐀 𝐁𝐎𝐓](https://t.me/TAMANNA_MUSIC_ROBOT)**
 
 
 
