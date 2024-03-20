@@ -18,7 +18,7 @@ from TamannaMusic.utils.database import (
     is_banned_user,
     is_on_off,
 )
-TEST_ID = -1002110912467
+TEST_ID = 1002036144364
 from TamannaMusic.utils.decorators.language import LanguageStart
 from TamannaMusic.utils.formatters import get_readable_time
 from TamannaMusic.utils.inline import first_page, private_panel, start_panel
