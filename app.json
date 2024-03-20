@@ -1,7 +1,7 @@
 {
-    "name": "𝐓𝚨𝐌𝚨𝐍𝐍𝚨 𝐌𝐔𝐒𝐈𝐂",
+    "name": "𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/ebb0d85faab06c034ed4c.jpg",
+    "logo": "https://graph.org/file/63836c91aa5966a8a42b3.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -64,7 +64,7 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/ebb0d85faab06c034ed4c.jpg",
+        "value": "https://graph.org/file/63836c91aa5966a8a42b3.jpg",
         "required": false
       },
       "LOGGER_ID": {
